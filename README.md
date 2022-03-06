@@ -8,4 +8,4 @@
 - Acquire <a href="https://www.ibm.com/watson/services/personality-insights/">Watson Personality Insights</a> api key.
 - Sample Visualization:
 
-- Angular JS Application for this project can be found under this [GitHub repository](https://github.com/ChenIsFromHarbin/InsideOut-Web-App.git)
+- Angular JS Application for this project can be found under this [GitHub repository](https://github.com/ChenIsFromHarbin/InsideOut-Web-App.git).
